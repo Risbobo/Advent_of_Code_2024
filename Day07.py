@@ -1,5 +1,4 @@
 from aocd.models import Puzzle
-from tqdm import tqdm
 
 day = 7
 puzzle = Puzzle(year=2024, day=day)
